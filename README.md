@@ -1,2 +1,3 @@
 # reverseParagraphUsingC
-The code reverses the paragraph 
+Reverse the paragraph using C
+
